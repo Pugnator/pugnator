@@ -1,4 +1,4 @@
-[![Pugnator's GitHub stats](https://github-readme-stats.vercel.app/api?username=pugnator)](https://github.com/anuraghazra/github-readme-stats)
+[![Pugnator's GitHub stats](https://github-readme-stats.vercel.app/api?username=pugnator&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 
