@@ -1,4 +1,5 @@
-![Pugnator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pugnator&commits_year=2020)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pugnator&show_icons=true)
+
 <!--
 Here are some ideas to get you started:
 
